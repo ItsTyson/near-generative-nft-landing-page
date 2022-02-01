@@ -13,8 +13,8 @@ const CalendarBtn = ({ className }) => (
     <span className="timezone calendar-btn__span">America/Los_Angeles</span>
     <span className="title calendar-btn__span">Main Launch | NEARcat NFTs</span>
     <span className="description calendar-btn__span">
-      Join the NEARcats Discord for exclusive access to our presale starting 1
-      hour before we go live https://discord.com/invite/UY9Xf2k
+      Join the Cyber Girls Discord for exclusive access to our presale starting 1
+      hour before we go live https://discord.gg/QftaHx8uzA
       <br />
       <br />
       Are you an NFT influencer, apply to get 3 NEARcats FREE when you give two
