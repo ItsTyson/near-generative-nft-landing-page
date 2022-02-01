@@ -24,7 +24,7 @@ const Hero = () => (
         <p className="hero__text">
           Now you can own some of the cutest critters in the Metaverse.
         </p>
-        <p className="hero__text hero__text_red">Sale Launches June 13th</p>
+        <p className="hero__text hero__text_red">Sale Launches August 16th</p>
         <CalendarBtn className="hero__calendar-btn" />
         <ReactSVG className="hero__img" src={bigCat} />
       </div>
