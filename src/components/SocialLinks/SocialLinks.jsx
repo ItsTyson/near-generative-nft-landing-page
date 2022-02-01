@@ -16,14 +16,14 @@ const SocialLinks = ({ className }) => (
       />
     </a>
     <a
-      href="https://discord.com/invite/UY9Xf2k"
+      href="https://discord.gg/QftaHx8uzA"
       target="_blank"
       rel="noopener noreferrer"
     >
       <ReactSVG className="social-links__item" src={socialFace} />
     </a>
     <a
-      href="https://twitter.com/NEARProtocol"
+      href="https://twitter.com/CryptoGirls_Inc"
       rel="noopener noreferrer"
       target="_blank"
     >
