@@ -6,7 +6,7 @@ import socialTwitter from '../../assets/images/social-twitter.svg';
 
 const SocialLinks = ({ className }) => (
   <div className={`social-links ${className || ''}`}>
-    <a href="https://opensea.io/account" rel="noopener noreferrer" target="_blank">
+    <a href="https://www.mintbase.io" rel="noopener noreferrer" target="_blank">
       <img
         width="24"
         height="24"
